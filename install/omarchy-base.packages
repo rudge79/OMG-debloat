@@ -1,7 +1,6 @@
 # Omarchy core package list pacstrapped by the ISO.
 # The ISO builder also reads this file when constructing the offline mirror.
 
-aether
 alsa-utils
 asdcontrol
 avahi
@@ -13,17 +12,12 @@ bluez-utils
 bolt
 brightnessctl
 btop
-chromium
 clang
-cliamp
 cups
 cups-browsed
 cups-filters
 cups-pdf
 ddcutil
-docker
-docker-buildx
-docker-compose
 dosfstools
 dotnet-runtime
 dua-cli
@@ -45,7 +39,6 @@ git
 gnome-keyring
 gnome-themes-extra
 grim
-gpu-screen-recorder
 gum
 gvfs-mtp
 gvfs-nfs
@@ -63,17 +56,13 @@ inotify-tools
 inxi
 networkmanager
 jq
-kdenlive
 kernel-modules-hook
-lazydocker
 lazygit
 less
 libsecret
 libvips
 libyaml
-libreoffice-fresh
 llvm
-localsend
 lua51
 luarocks
 man-db
@@ -90,15 +79,12 @@ noto-fonts-cjk
 noto-fonts-emoji
 nss-mdns
 nvim
-obs-studio
-obsidian
 omacalc
 omacut
 omawrite
 omarchy-nvim
 pacman-contrib
 pamixer
-pinta
 plocate
 plymouth
 postgresql-libs
@@ -143,7 +129,6 @@ woff2-font-awesome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-terminal-exec
-xournalpp
 yaru-icon-theme
 yay
 yt-dlp
