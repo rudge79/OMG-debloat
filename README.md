@@ -1,8 +1,9 @@
-# Omarchy
+# OMG-debloat
 
-Omarchy is a beautiful, modern & opinionated Linux distribution by DHH.
+This project is a fork of Omarchy (which is a beautiful, modern & opinionated Linux distribution by DHH). This forked version is call OMG-debloat (OMG-D). Is is pretty much
+debloated from pre-installed apps and AI agents.
 
-Read more at [omarchy.org](https://omarchy.org).
+For futher info read more at [omarchy.org](https://omarchy.org).
 
 ## The Omarchy Manual
 
