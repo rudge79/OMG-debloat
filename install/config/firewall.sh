@@ -46,7 +46,7 @@ EOF
   return "$status"
 }
 
-install_ufw_docker_rules
+command -v ufw-docker &>/dev/null && install_ufw_docker_rules
 
 # Installs are followed by reboot, so configure UFW to start on the installed
 # system instead of mutating the live install session's firewall.
